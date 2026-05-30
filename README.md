@@ -1,6 +1,6 @@
-# 建築技術規則全圖解 Support Site
+# 建築工具箱 100 Support Site
 
-Public App Store support and privacy pages for `建築技術規則全圖解`.
+Public App Store support and privacy pages for `建築工具箱 100`.
 
 - Privacy Policy: https://kingboss568.github.io/tbcode-support/privacy.html
 - Support: https://kingboss568.github.io/tbcode-support/support.html
